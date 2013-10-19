@@ -1,0 +1,5 @@
+<meta>
+	<file src="at400.txd" />
+	<file src="at400.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

@@ -1,0 +1,68 @@
+20130912220045> Logowanie rozpoczęte
+20130912220240> ### Miodzik zalogował/a się.
+20130912220254> ### mix zalogował/a się.
+20130912220313> Gray_Fullbuster /dajmi 135 666 0
+20130912220339> IC Gray Fullbuster/1: Start klej
+20130912220510> B Gray Fullbuster/1: i
+20130912220637> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Minigun
+20130912220651> IC Martin Verez/0: -UNBW 1
+20130912220722> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Sniper
+20130912220746> SMIERC Gray_Fullbuster
+20130912221119> B Gray Fullbuster/1: 998
+20130912221135> Martin_Verez /dajmi 6 10 998
+20130912221615> Gray_Fullbuster /dajmi 6 1 998
+20130912221622> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Minigun
+20130912221633> HOL pojazd 999 holowany przez 998 (kierowca 3)
+20130912221643> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Minigun
+20130912221648> ZABOJSTWO Gray_Fullbuster zabity przez Gray_Fullbuster, bron Explosion
+20130912221748> HOL pojazd 999 holowany przez 998 (kierowca 8)
+20130912222646> IC Martin Verez/: /k no to komenda dziwko
+20130912222829> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron AK-47
+20130912222833> B Jacob Redson/2: Ała
+20130912222844> IC Martin Verez/: /k DAJ MI ID SZOTGUNA
+20130912222922> B Jacob Redson/2: Daj suppa i Hp xD
+20130912223026> Martin_Verez /dajmi 115 0 0
+20130912223030> B Jacob Redson/2: Daj suppa :D
+20130912223032> Martin_Verez /dajmi 115 1 0
+20130912223043> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron M4
+20130912223054> Martin_Verez /dajmi 109 1 0
+20130912223059> ITEM_DROP Martin Verez, ID: 131, SUBTYPE:0
+20130912223106> IC Martin Verez/0: -dajmi 131 1000
+20130912223113> Martin_Verez /dajmi 131 1000 0
+20130912223118> ITEM_PICKUP Jacob Redson, ID: 131, SUBTYPE:0
+20130912223122> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Shotgun
+20130912223126> PM Lee_Sin/3 >> Gray_Fullbuster/1: tepaj
+20130912223141> Martin_Verez /dajmi 109 0 0
+20130912223145> Martin_Verez /dajmi 109 3 0
+20130912223147> ITEM_DROP Martin Verez, ID: 109, SUBTYPE:0
+20130912223152> ITEM_PICKUP Jacob Redson, ID: 109, SUBTYPE:0
+20130912223212> WYMIANA Martin_Verez daje Jacob_Redson item 131 podtyp 520 ilosc 0
+20130912223214> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Shotgun
+20130912223240> ZABOJSTWO Lee_Sin zabity przez Martin_Verez, bron Shotgun
+20130912223241> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Shotgun
+20130912223243> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912223339> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Minigun
+20130912223346> IC Martin Verez/0: .heal 2
+20130912223402> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Shotgun
+20130912223404> B Jacob Redson/2: Daj suppa
+20130912223405> SMIERC Lee_Sin
+20130912223633> IC Jacob Redson/: /k Gdzie wy kurwa jesteście?
+20130912223709> IC Jacob Redson/2: /me Se przykleja sie do pojazdu
+20130912223720> IC Lee Sin/3: /me lubi pomarancze
+20130912223735> IC Lee Sin/3: /me pomaranczowe
+20130912224007> IC Jacob Redson/2: /me Jest se w chuj pogaty
+20130912224255> IC Martin Verez/: /k TEPNIJ SIĘ CHUJU
+20130912224427> B Lee Sin/3: to ja se tu ppsiedze bo ogladam live
+20130912224431> B Lee Sin/3: nie zabijac mnie
+20130912224531> IC Jacob Redson/2: /do Do dupy
+20130912224533> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Deagle
+20130912224542> B Lee Sin/3: slyszalem to
+20130912224559> ZABOJSTWO Martin_Verez zabity przez Jacob_Redson, bron Shotgun
+20130912224609> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Shotgun
+20130912224624> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Shotgun
+20130912224635> ZABOJSTWO Martin_Verez zabity przez Jacob_Redson, bron Shotgun
+20130912224655> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron M4
+20130912225851> ZABOJSTWO Jacob_Redson zabity przez Martin_Verez, bron Shotgun
+20130912225853> ZABOJSTWO Lee_Sin zabity przez Martin_Verez, bron Shotgun
+20130912225854> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912225906> B Jacob Redson/2: Unio ;D

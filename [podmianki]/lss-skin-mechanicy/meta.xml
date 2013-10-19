@@ -1,0 +1,12 @@
+<meta>
+	<file src="ballas3.dff" />
+	<file src="ballas3.txd" />
+	
+	<file src="fam2.dff" />
+	<file src="fam2.txd" />
+	
+	<file src="vla1.dff" />
+	<file src="vla1.txd" />
+	
+	<script src="replace.lua" type="client" />
+</meta>

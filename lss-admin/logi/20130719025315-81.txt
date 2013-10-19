@@ -1,0 +1,2 @@
+20130719025315> Logowanie rozpoczęte
+20130719025537> ### root zalogował/a się.

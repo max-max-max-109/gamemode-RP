@@ -1,0 +1,14 @@
+20130907203111> Logowanie rozpoczęte
+20130907203607> ### mix zalogował/a się.
+20130907203611> IC Gray Fullbuster/0: Inv
+20130907204753> B Gray Fullbuster/0: b
+20130907211208> ### mix zalogował/a się.
+20130907211257> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 206
+20130907211306> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 300
+20130907211309> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 310
+20130907211311> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 306
+20130907211313> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 307
+20130907211331> Gray_Fullbuster /dajmi 6 1 1
+20130907211349> Gray_Fullbuster /dajmi 6 1 3
+20130908000320> ### mix zalogował/a się.
+20130908000729> ### mix zalogował/a się.

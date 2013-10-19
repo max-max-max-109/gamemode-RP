@@ -1,0 +1,94 @@
+20130719221400> Logowanie rozpoczęte
+20130719221512> ### root zalogował/a się.
+20130719223734> Brian_Looner /dajmi 72 1 1
+20130719223816> Brian_Looner /dajmi 108 1 1
+20130719223833> IC Brian Looner/: /m stać
+20130719223859> Brian_Looner /dajmi 105 1 1
+20130719224005> Brian_Looner /dajmi 175 1 1
+20130719224048> Brian_Looner /dajmi 165 64 1
+20130719224743> IC Brian Looner/0: Bb
+20130719224753> ITEM_DROP Brian Looner, ID: 114, SUBTYPE:0
+20130719224754> ITEM_DROP Brian Looner, ID: 136, SUBTYPE:1
+20130719224755> ITEM_DROP Brian Looner, ID: 136, SUBTYPE:1
+20130719224755> ITEM_DROP Brian Looner, ID: 136, SUBTYPE:1
+20130719224756> ITEM_DROP Brian Looner, ID: 136, SUBTYPE:1
+20130719224808> ITEM_PICKUP Laxus Looner, ID: 136, SUBTYPE:1
+20130719224817> ITEM_PICKUP Laxus Looner, ID: 114, SUBTYPE:0
+20130719224836> ZABOJSTWO Brian_Looner zabity przez Laxus_Looner, bron MP5
+20130719224838> B Brian Looner/0: b
+20130719224840> IC Brian Looner/0: /do e
+20130719224916> B Brian Looner/0: b
+20130719225054> Brian_Looner /dajmi 28 1 0
+20130719225722> B Brian Looner/0: login bielikus bielikus
+20130719225738> ### bielikus zalogował/a się.
+20130719225807> B Brian Looner/0: dajmi 6 1 1
+20130719225830> Brian_Looner /dajmi 6 1 1
+20130719225835> ITEM_DROP Brian Looner, ID: 6, SUBTYPE:1
+20130719225846> ITEM_PICKUP Laxus Looner, ID: 6, SUBTYPE:1
+20130719230000> Brian_Looner /dajmi 114 0 0
+20130719230114> Brian_Looner /dajmi 115 0 0
+20130719230122> Brian_Looner /dajmi 130 999 0
+20130719230211> Brian_Looner /dajmi 6 1 2
+20130719230237> Brian_Looner /dajmi 36 0 0
+20130719230246> Brian_Looner /dajmi 36 64 1
+20130719230327> SMIERC Laxus_Looner
+20130719232027> Brian_Looner /dajmi 169 0 0
+20130719232338> B Brian Looner/0: options audio i 3 pasek
+20130719232555> IC Brian Looner/0: /me oddaje strzał
+20130719232556> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232607> IC Brian Looner/: /m hoj ci w dupe
+20130719232846> IC Brian Looner/0: /me oddaje strzał
+20130719232847> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232848> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232848> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232848> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232848> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232848> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232848> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232849> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232849> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232849> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232849> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232849> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232849> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719232904> B Brian Looner/0: xD
+20130719233010> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron M4
+20130719233019> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron M4
+20130719233024> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron M4
+20130719233043> IC Brian Looner/0: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130719233112> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron M4
+20130719233251> B Brian Looner/0: um
+20130719233348> Brian_Looner /dajmi 6 1 3
+20130719233449> ITEM_DROP Brian Looner, ID: 114, SUBTYPE:0
+20130719233454> ITEM_DROP Brian Looner, ID: 115, SUBTYPE:0
+20130719233500> ITEM_PICKUP Laxus Looner, ID: 115, SUBTYPE:0
+20130719233505> ITEM_PICKUP Laxus Looner, ID: 114, SUBTYPE:0
+20130719233919> ### root zalogował/a się.
+20130719234623> Brian_Looner /dajmi 136 0 0
+20130719234629> Brian_Looner /dajmi 115 0 0
+20130719234635> Brian_Looner /dajmi 106 0 0
+20130719234647> Brian_Looner /dajmi 108 0 0
+20130719234654> Brian_Looner /dajmi 110 0 0
+20130719235347> Brian_Looner /dajmi 101 0 0
+20130719235351> Brian_Looner /dajmi 120 0 0
+20130719235535> ZABOJSTWO Brian_Looner zabity przez Laxus_Looner, bron Fist
+20130719235629> Brian_Looner /dajmi 132 64 0
+20130719235713> ZABOJSTWO Laxus_Looner zabity przez Zamaskowana_osoba_908, bron Deagle
+20130719235729> ZABOJSTWO Laxus_Looner zabity przez Zamaskowana_osoba_908, bron Deagle
+20130719235815> ZABOJSTWO Laxus_Looner zabity przez Zamaskowana_osoba_908, bron Deagle
+20130719235927> ZABOJSTWO Laxus_Looner zabity przez Zamaskowana_osoba_908, bron Deagle
+20130719235936> ZABOJSTWO Laxus_Looner zabity przez Zamaskowana_osoba_908, bron Deagle
+20130720000009> ZABOJSTWO Laxus_Looner zabity przez Zamaskowana_osoba_908, bron Deagle
+20130720000612> ### root zalogował/a się.
+20130720000746> ITEM_DROP Brian Looner, ID: 6, SUBTYPE:973
+20130720000747> ITEM_DROP Brian Looner, ID: 6, SUBTYPE:973
+20130720000810> ITEM_PICKUP Laxus Looner, ID: 6, SUBTYPE:973
+20130720001106> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron Deagle
+20130720001128> ZABOJSTWO Brian_Looner zabity przez Laxus_Looner, bron Fist
+20130720001811> B Brian Looner/0: veh.fix
+20130720001948> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron Deagle
+20130720002028> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron Deagle
+20130720002048> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron Deagle
+20130720002106> ZABOJSTWO Laxus_Looner zabity przez Brian_Looner, bron Deagle
+20130720002112> ITEM_DROP Laxus Looner, ID: 166, SUBTYPE:1
+20130720002112> CK Laxus Looner, powod: 'testowanie gamemoda', przez: tester

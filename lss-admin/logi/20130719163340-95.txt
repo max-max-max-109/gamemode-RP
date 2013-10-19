@@ -1,0 +1,9 @@
+20130719163340> Logowanie rozpoczęte
+20130719164322> Laxus_Looner /dajmi 30 1 1
+20130719164335> Laxus_Looner /dajmi 30 1 614
+20130719164342> ITEM_DROP Laxus Looner, ID: 30, SUBTYPE:614
+20130719164348> Laxus_Looner /dajmi 31 1 654
+20130719164352> ITEM_DROP Laxus Looner, ID: 31, SUBTYPE:654
+20130719164356> Laxus_Looner /dajmi 30 2 64
+20130719164404> Laxus_Looner /dajmi 33 1 64
+20130719165040> IC Laxus Looner/0: /do z dupy?

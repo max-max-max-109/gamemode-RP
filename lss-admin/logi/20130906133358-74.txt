@@ -1,0 +1,9 @@
+20130906133358> Logowanie rozpoczęte
+20130906133536> ### root zalogował/a się.
+20130906134228> Brian_Looner /dajmi 0 100 0
+20130906134725> ### root zalogował/a się.
+20130906134728> Brian_Looner /dajmi 50 0 0
+20130906134731> Brian_Looner /dajmi 111 0 0
+20130906134735> Brian_Looner /dajmi 111 0 0
+20130906134829> ITEM_DROP Brian Looner, ID: 111, SUBTYPE:0
+20130906134830> ITEM_DROP Brian Looner, ID: 111, SUBTYPE:0

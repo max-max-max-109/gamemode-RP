@@ -1,0 +1,7 @@
+ <meta>
+            <script src="replace.lua" type="client" />
+            <file src="ak47.txd" />
+			<file src="ak47.dff" />
+		<file src="desert_eagle.dff" />
+		<file src="desert_eagle.txd" />
+        </meta>

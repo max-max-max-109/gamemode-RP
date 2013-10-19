@@ -1,0 +1,18 @@
+20130719180226> Logowanie rozpoczęte
+20130719181152> ITEM_DROP Laxus Looner, ID: 6, SUBTYPE:144
+20130719181201> ITEM_PICKUP Laxus Looner, ID: 6, SUBTYPE:144
+20130719181358> ### root zalogował/a się.
+20130719181459> Brian_Looner /dajmi 4 1 1
+20130719181710> BANK wplata Brian_Looner/2 kwota 100$
+20130719181725> BANK-FRAKCJA wplata Brian_Looner/2 kwota 100$ NA KONTO 10 TYTULEM testowanie gamemoda
+20130719182346> Brian_Looner /dajmi 6 2 0
+20130719182404> Brian_Looner /dajmi 6 2 0
+20130719182409> Brian_Looner /dajmi 6 2 0
+20130719182415> Brian_Looner /dajmi 6 2 972
+20130719182431> Brian_Looner /dajmi 6 2 97200
+20130719183425> Brian_Looner /dajmi 6 2 97200
+20130719183513> Brian_Looner /dajmi 6 2 89
+20130719183524> ITEM_DROP Brian Looner, ID: 6, SUBTYPE:89
+20130719183525> ITEM_DROP Brian Looner, ID: 6, SUBTYPE:89
+20130719184006> Brian_Looner /dajmi 6 1 89
+20130719184440> Brian_Looner /dajmi 99 1 1

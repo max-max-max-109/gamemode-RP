@@ -1,0 +1,5 @@
+20130719144643> Logowanie rozpoczęte
+20130719144845> ### root zalogował/a się.
+20130719155343> ### root zalogował/a się.
+20130719155743> ITEM_DROP Brian Looner, ID: 8, SUBTYPE:1
+20130719155744> ITEM_DROP Brian Looner, ID: 10, SUBTYPE:1

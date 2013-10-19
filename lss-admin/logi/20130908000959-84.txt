@@ -1,0 +1,303 @@
+20130908000959> Logowanie rozpoczęte
+20130908001057> ### mix zalogował/a się.
+20130908001220> ITEM_DROP Gray Fullbuster, ID: 6, SUBTYPE:3
+20130908192050> ### mix zalogował/a się.
+20130908192248> ZMIANA SKINA mix zmienil skin Jose_Camper na 310
+20130908192254> ZMIANA SKINA mix zmienil skin Jose_Camper na 106
+20130908192353> PM Jose_Camper/1 >> Gray_Fullbuster/0: login bezi haslo 1Bezimienny
+20130908192512> B Gray Fullbuster/0: << Jose_Camper(1): login bezi haslo 1Bezimienny
+20130908192526> ### bezi zalogował/a się.
+20130908192557> B Gray Fullbuster/0: skin 1 id
+20130908192618> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130908192630> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130908192632> ZMIANA SKINA mix zmienil skin Jose_Camper na 29
+20130908192848> B Jose Camper/1: 1760.25,-2123.43,13.55,281.5
+20130908193100> ### Toretto209 zalogował/a się.
+20130908193108> Gray_Fullbuster /dajmi 110 0 0
+20130908193113> Gray_Fullbuster /dajmi 110 0 0
+20130908193133> Gray_Fullbuster /dajmi 132 0 0
+20130908193143> Gray_Fullbuster /dajmi 132 200 0
+20130908193152> Gray_Fullbuster /dajmi 110 0 0
+20130908193204> B Gray Fullbuster/0: lagi
+20130908193218> WYMIANA Gray_Fullbuster daje Brian_Walker item 110 podtyp 1 ilosc 0
+20130908193218> WYMIANA Gray_Fullbuster daje Brian_Walker item 132 podtyp 50 ilosc 0
+20130908193223> B Brian Walker/2: dzeki
+20130908193240> WYMIANA Gray_Fullbuster daje Jose_Camper item 110 podtyp 1 ilosc 0
+20130908193240> WYMIANA Gray_Fullbuster daje Jose_Camper item 132 podtyp 50 ilosc 0
+20130908193257> B Gray Fullbuster/0: piechta
+20130908193615> PM Gray_Fullbuster/0 >> Brian_Walker/2: niech ci zapłaci za siedzenia na dachu :D
+20130908193726> B Brian Walker/2: maly ma lagi -_-
+20130908193734> B Jose Camper/1: nom
+20130908193737> B Brian Walker/2: moze ja konfe zaloze?
+20130908193744> B Jose Camper/1: ok
+20130908193902> ### mix zalogował/a się.
+20130908193915> Gray_Fullbuster /dajmi 115 0 0
+20130908193921> Gray_Fullbuster /dajmi 130 300 0
+20130908194028> SMIERC Jose_Camper
+20130908194037> SMIERC Gray_Fullbuster
+20130908194040> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130908194132> SMIERC Jose_Camper
+20130908194145> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130908194450> ### Toretto209 zalogował/a się.
+20130908194451> ### mix zalogował/a się.
+20130908194535> IC Jose Camper/1: /me siedzi w bagazniku
+20130908194548> IC Jose Camper/1: /me kampi w bagazniku
+20130908195206> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130908195216> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Fist
+20130908195227> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130908195254> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Fist
+20130908195322> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130908195952> Gray_Fullbuster /dajmi 6 1 315
+20130908200851> B Brian Walker/2: roof
+20130908200908> B Gray Fullbuster/0: b
+20130908201001> B Brian Walker/2: kononononno
+20130908201234> B Brian Walker/2: stajnia
+20130908201243> B Jose Camper/1: co stajnia
+20130908202531> ### mix zalogował/a się.
+20130908202902> HOL pojazd 602 holowany przez 603 (kierowca 5)
+20130908203012> HOL pojazd 602 holowany przez 603 (kierowca 5)
+20130908203822> ### Toretto209 zalogował/a się.
+20130908204108> ### mix zalogował/a się.
+20130908204307> ZMIANA SKINA bezi zmienil skin Jose_Camper na 30
+20130908204307> IC Brian Walker/2: Fajna dupa
+20130908204316> ZMIANA SKINA bezi zmienil skin Jose_Camper na 58
+20130908204355> ITEM_DROP Gray Fullbuster, ID: 11, SUBTYPE:0
+20130908204356> ITEM_DROP Gray Fullbuster, ID: 35, SUBTYPE:0
+20130908204358> ITEM_DROP Gray Fullbuster, ID: 41, SUBTYPE:0
+20130908204400> ITEM_DROP Gray Fullbuster, ID: 39, SUBTYPE:0
+20130908204401> ITEM_DROP Gray Fullbuster, ID: 126, SUBTYPE:0
+20130908204402> ITEM_DROP Gray Fullbuster, ID: 29, SUBTYPE:0
+20130908204408> ZMIANA SKINA bezi zmienil skin Jose_Camper na 295
+20130908204516> ZMIANA SKINA bezi zmienil skin Jose_Camper na 25
+20130908204647> IC Gray Fullbuster/0: Ej kurwo.
+20130908204656> IC Gray Fullbuster/0: Stój szmato
+20130908204707> IC Gray Fullbuster/0: W ryj niechcesz oddawaj spoiler
+20130908204720> IC Brian Walker/2: Jaki spojler ziomek?
+20130908204727> IC Gray Fullbuster/0: Z auta szmato
+20130908204734> IC Gray Fullbuster/0: /me wyciąga spod koszuli deagla
+20130908204738> IC Gray Fullbuster/0: Chcesz innaczej pogadać?
+20130908204743> IC Brian Walker/2: Ja nie zajebalem
+20130908204750> IC Brian Walker/2: Co ten murzyn ?
+20130908204759> IC Gray Fullbuster/0: /me wtem wycelowuje w łep poczym mówi
+20130908204802> IC Gray Fullbuster/0: Masz murzynie
+20130908204812> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130908204833> ZMIANA SKINA bezi zmienil skin Jose_Camper na 57
+20130908204848> ZMIANA SKINA bezi zmienil skin Jose_Camper na 25
+20130908205015> IC Brian Walker/2: Buuu kurwa !
+20130908205110> ZABOJSTWO Jose_Camper zabity przez Brian_Walker, bron Fist
+20130908205126> B Jose Camper/1: ty kurwa durni
+20130908205131> B Jose Camper/1: u
+20130908205140> B Brian Walker/2: durni !
+20130908205202> ### mix zalogował/a się.
+20130908205205> ZMIANA SKINA bezi zmienil skin Jose_Camper na 25
+20130908205237> ZMIANA SKINA bezi zmienil skin Jose_Camper na 19
+20130908205244> ZMIANA SKINA bezi zmienil skin Jose_Camper na 1
+20130908205247> ZMIANA SKINA bezi zmienil skin Jose_Camper na 2
+20130908205259> KF35 Jose_Camper/1: /skin 1 59
+20130908205308> ZMIANA SKINA bezi zmienil skin Jose_Camper na 59
+20130908205314> ZMIANA SKINA bezi zmienil skin Jose_Camper na 58
+20130908205320> ZMIANA SKINA bezi zmienil skin Jose_Camper na 57
+20130908205341> ZMIANA SKINA bezi zmienil skin Jose_Camper na 85
+20130908205350> ZMIANA SKINA mix zmienil skin Brian_Walker na 310
+20130908205351> ZMIANA SKINA bezi zmienil skin Jose_Camper na 85
+20130908205355> KF35 Jose_Camper/1: /skin 1 96
+20130908205401> ZMIANA SKINA bezi zmienil skin Jose_Camper na 96
+20130908205407> ZMIANA SKINA bezi zmienil skin Jose_Camper na 96
+20130908205409> IC Brian Walker/2: Roof roof
+20130908205422> IC Jose Camper/1: Morda psie xd
+20130908205436> ZMIANA SKINA bezi zmienil skin Jose_Camper na 175
+20130908205437> IC Gray Fullbuster/0: Jak się kurwa odzyszasz do mojego psa kurwo
+20130908205445> IC Jose Camper/1: Twojego
+20130908205445> IC Brian Walker/2: Roof roof
+20130908205448> IC Jose Camper/1: >>?
+20130908205450> IC Gray Fullbuster/0: Ta
+20130908205455> IC Jose Camper/1: Chyba kiblowego
+20130908205501> IC Gray Fullbuster/0: Zara cie kurwa zastrzele
+20130908205502> ZMIANA SKINA bezi zmienil skin Jose_Camper na 275
+20130908205512> ZMIANA SKINA bezi zmienil skin Jose_Camper na 285
+20130908205543> ZMIANA SKINA mix zmienil skin Brian_Walker na 311
+20130908205547> ZMIANA SKINA mix zmienil skin Brian_Walker na 312
+20130908205556> ZMIANA SKINA mix zmienil skin Jose_Camper na 310
+20130908205603> ZMIANA SKINA mix zmienil skin Brian_Walker na 310
+20130908205604> ZMIANA SKINA bezi zmienil skin Jose_Camper na 312
+20130908205610> ZMIANA SKINA bezi zmienil skin Jose_Camper na 125
+20130908205633> ZMIANA SKINA bezi zmienil skin Jose_Camper na 165
+20130908205718> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130908205833> ### mix zalogował/a się.
+20130908205839> ZMIANA SKINA mix zmienil skin Jose_Camper na 112
+20130908205845> ZMIANA SKINA mix zmienil skin Jose_Camper na 312
+20130908205848> ZMIANA SKINA mix zmienil skin Brian_Walker na 312
+20130908205903> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 312
+20130908205910> IC Brian Walker/2: Roof roof
+20130908205916> IC Jose Camper/1: Xd
+20130908205932> IC Jose Camper/1: Sex2
+20130908210022> ZABOJSTWO Jose_Camper zabity przez Brian_Walker, bron Fist
+20130908210039> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130908210048> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130908210112> IC Gray Fullbuster/0: /do właściciel psów wydaje komende atak
+20130908210112> ZMIANA SKINA bezi zmienil skin Jose_Camper na 312
+20130908210121> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130908210135> IC Gray Fullbuster/0: /do ponownie wydaje komende teraz do ww
+20130908210147> SMIERC Gray_Fullbuster
+20130908210153> SMIERC Gray_Fullbuster
+20130908210219> ZMIANA SKINA bezi zmienil skin Jose_Camper na 312
+20130908210227> ZMIANA SKINA mix zmienil skin Brian_Walker na 312
+20130908210235> ZMIANA SKINA mix zmienil skin Brian_Walker na 311
+20130908210241> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 311
+20130908210424> IC Brian Walker/2: Hał hał
+20130908210520> IC Brian Walker/2: Hał
+20130908210522> IC Brian Walker/2: Hał
+20130908210524> IC Brian Walker/2: Hał
+20130908210526> IC Brian Walker/2: Hał
+20130908210526> IC Gray Fullbuster/0: Hał hał
+20130908210528> IC Brian Walker/2: Hał
+20130908210535> IC Brian Walker/2: Roof roof roof
+20130909191850> ### mix zalogował/a się.
+20130909191855> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 29
+20130909192121> Gray_Fullbuster /dajmi 6 1 900
+20130909193743> SMIERC Gray_Fullbuster
+20130909193749> SMIERC Gray_Fullbuster
+20130909193808> ZMIANA SKINA mix zmienil skin Gray_Fullbuster na 29
+20130909193929> ### mix zalogował/a się.
+20130909194233> ### mix zalogował/a się.
+20130909194306> ZABOJSTWO Gray_Fullbuster zabity przez Gray_Fullbuster, bron Rocket
+20130909195031> Gray_Fullbuster /dajmi 74 2 0
+20130909195037> ITEM_DROP Gray Fullbuster, ID: 74, SUBTYPE:0
+20130909195057> ITEM_PICKUP Lee Sin, ID: 74, SUBTYPE:0
+20130909195324> Gray_Fullbuster /dajmi 6 1 950
+20130909195739> IC Gray Fullbuster/0: /do 1 m e
+20130910200454> ### mix zalogował/a się.
+20130910200534> ### bezi zalogował/a się.
+20130910200546> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910201014> Gray_Fullbuster /dajmi 6 1 700
+20130910201018> Gray_Fullbuster /dajmi 6 1 900
+20130910201025> Gray_Fullbuster /dajmi 6 1 950
+20130910201446> ITEM_DROP Gray Fullbuster, ID: 132, SUBTYPE:0
+20130910201449> ITEM_PICKUP Gray Fullbuster, ID: 132, SUBTYPE:0
+20130910201500> B Gray Fullbuster/0: dajmi 132 500
+20130910201506> Jose_Camper /dajmi 132 500 0
+20130910201515> Jose_Camper /dajmi 132 500 0
+20130910201828> Jose_Camper /dajmi 142 1 0
+20130910201850> WYMIANA Jose_Camper daje Gray_Fullbuster item 142 podtyp 1 ilosc 0
+20130910201936> Gray_Fullbuster /dajmi 147 0 0
+20130910201940> ITEM_DROP Gray Fullbuster, ID: 147, SUBTYPE:0
+20130910201952> Jose_Camper /dajmi 148 1 0
+20130910202040> Gray_Fullbuster /dajmi 132 0 0
+20130910202048> Jose_Camper /dajmi 148 1 100
+20130910202051> Gray_Fullbuster /dajmi 148 100 0
+20130910202140> Jose_Camper /dajmi 189 1 0
+20130910202151> Gray_Fullbuster /dajmi 154 0 0
+20130910202211> Gray_Fullbuster /dajmi 166 1 3
+20130910202211> Jose_Camper /dajmi 152 1 0
+20130910202219> ITEM_DROP Gray Fullbuster, ID: 166, SUBTYPE:3
+20130910202243> Gray_Fullbuster /dajmi 166 1 3
+20130910202334> WYMIANA Gray_Fullbuster daje Jose_Camper item 166 podtyp 1 ilosc 3
+20130910202334> WYMIANA Jose_Camper daje Gray_Fullbuster item 189 podtyp 1 ilosc 0
+20130910202336> ITEM_DROP Gray Fullbuster, ID: 189, SUBTYPE:0
+20130910202353> Gray_Fullbuster /dajmi 150 0 0
+20130910202403> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910202436> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910202457> PM Gray_Fullbuster/0 >> BoskiBosik/2: zapraszam do rejstracji
+20130910202501> Jose_Camper /dajmi 133 1 0
+20130910202513> Jose_Camper /dajmi 134 1 0
+20130910202522> Jose_Camper /dajmi 135 1 0
+20130910202551> Jose_Camper /dajmi 1 1 0
+20130910202600> Jose_Camper /dajmi 2 1 0
+20130910202613> Jose_Camper /dajmi 120 1 0
+20130910202628> Jose_Camper /dajmi 131 1 0
+20130910202642> Jose_Camper /dajmi 1 100 0
+20130910202725> SMIERC Jose_Camper
+20130910202837> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910202848> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910202900> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910202920> SMIERC Jose_Camper
+20130910202939> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910203043> ### mix zalogował/a się.
+20130910203112> Jose_Camper /dajmi 189 1 0
+20130910203119> Jose_Camper /dajmi 191 1 0
+20130910203143> Jose_Camper /dajmi 132 1000 0
+20130910203255> Jose_Camper /dajmi 0 0 0
+20130910203752> Jose_Camper /dajmi 5 1 0
+20130910203758> Jose_Camper /dajmi 5 10000 0
+20130910203808> IC Jose Camper/1: Aspiryna
+20130910203823> Jose_Camper /dajmi 6 1 0
+20130910203854> Jose_Camper /dajmi 7 1 0
+20130910203943> Jose_Camper /dajmi 8 1 0
+20130910204002> Jose_Camper /dajmi 9 1 0
+20130910204013> Jose_Camper /dajmi 10 1 0
+20130910204043> Jose_Camper /dajmi 11 1 0
+20130910204112> Jose_Camper /dajmi 12 1 0
+20130910204138> ITEM_DROP Jose Camper, ID: 9, SUBTYPE:0
+20130910204140> ITEM_DROP Jose Camper, ID: 11, SUBTYPE:0
+20130910204141> ITEM_DROP Jose Camper, ID: 12, SUBTYPE:0
+20130910204144> ITEM_DROP Jose Camper, ID: 8, SUBTYPE:0
+20130910204206> Jose_Camper /dajmi 13 1 0
+20130910204227> Jose_Camper /dajmi 13 1000000 0
+20130910204234> Jose_Camper /dajmi 14 1 0
+20130910204244> Jose_Camper /dajmi 15 1 0
+20130910204318> Jose_Camper /dajmi 16 1 0
+20130910204331> Jose_Camper /dajmi 18 1 0
+20130910204347> Jose_Camper /dajmi 19 1 0
+20130910204359> Jose_Camper /dajmi 20 1 0
+20130910204402> Gray_Fullbuster /dajmi 162 0 0
+20130910204424> Gray_Fullbuster /dajmi 162 1 100
+20130910204427> ITEM_DROP Gray Fullbuster, ID: 162, SUBTYPE:100
+20130910204428> ITEM_DROP Gray Fullbuster, ID: 162, SUBTYPE:0
+20130910204432> Jose_Camper /dajmi 21 1 0
+20130910204436> Gray_Fullbuster /dajmi 162 1 100
+20130910204456> Jose_Camper /dajmi 22 1 0
+20130910204523> Jose_Camper /dajmi 18 1 0
+20130910204531> Jose_Camper /dajmi 18 30 0
+20130910204628> BANK wplata Jose_Camper/5 kwota 10000$
+20130910204638> BANK wplata Jose_Camper/5 kwota 101000$
+20130910204649> BANK wplata Jose_Camper/5 kwota 111100$
+20130910204654> BANK-FRAKCJA wplata Gray_Fullbuster/3 kwota 100$ NA KONTO 1 TYTULEM wwwwsdad
+20130910204705> BANK wplata Jose_Camper/5 kwota 778201$
+20130910204717> BANK wyplata Jose_Camper/5 kwota -10000$
+20130910204720> IC Gray Fullbuster/0: Dawaj hajs
+20130910204733> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910204740> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910204743> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910204801> WYMIANA Jose_Camper daje Gray_Fullbuster item 18 podtyp 15 ilosc 0
+20130910204847> ZMIANA SKINA bezi zmienil skin Jose_Camper na 29
+20130910204854> Jose_Camper /dajmi 22 1 0
+20130910204855> ZMIANA SKINA mix zmienil skin Jose_Camper na 312
+20130910204900> ITEM_DROP Jose Camper, ID: 22, SUBTYPE:0
+20130910204904> Jose_Camper /dajmi 25 1 0
+20130910204917> Jose_Camper /dajmi 25 100 0
+20130910204923> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910204933> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910204937> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910205004> SMIERC Gray_Fullbuster
+20130910205014> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205020> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205112> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910205139> SMIERC Gray_Fullbuster
+20130910205140> Jose_Camper /dajmi 28 1 0
+20130910205146> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205151> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205209> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910205241> SMIERC Jose_Camper
+20130910205251> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910205301> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910205307> ITEM_DROP Gray Fullbuster, ID: 130, SUBTYPE:0
+20130910205313> Gray_Fullbuster /dajmi 130 10000 0
+20130910205321> SMIERC Gray_Fullbuster
+20130910205326> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205329> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205340> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205354> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205400> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205409> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron Deagle
+20130910205416> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205424> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205428> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205431> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205433> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205500> ZABOJSTWO Jose_Camper zabity przez Gray_Fullbuster, bron M4
+20130910205513> Jose_Camper /dajmi 50 1 0
+20130910205517> ITEM_DROP Jose Camper, ID: 50, SUBTYPE:0
+20130910205528> SMIERC Gray_Fullbuster
+20130911194705> BANK wplata Franklin_Alosi/7 kwota 100$
+20130911194717> BANK wyplata Franklin_Alosi/7 kwota -200$
+20130911212558> ### mix zalogował/a się.

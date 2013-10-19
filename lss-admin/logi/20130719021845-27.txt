@@ -1,0 +1,11 @@
+20130719021845> Logowanie rozpoczęte
+20130719021943> ### root zalogował/a się.
+20130719022004> ### root zalogował/a się.
+20130719022032> IC Brian Looner/0: Yuiop[]t/dajgp
+20130719022038> IC Brian Looner/0: /me oddaje strzał
+20130719022525> Brian_Looner /dajmi 1 1 1
+20130719022531> Brian_Looner /dajmi 2 1 2
+20130719022539> Brian_Looner /dajmi 6 1 144
+20130719023104> IC Brian Looner/0: /do 2 test
+20130719023504> ZMIANA SKINA tester zmienil skin Brian_Looner na 1
+20130719023712> RAPORT Brian_Looner/0 - test-- Brian_Looner/0

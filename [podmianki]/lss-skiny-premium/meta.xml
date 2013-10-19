@@ -1,0 +1,18 @@
+<meta>
+  <file src='137.dff' />
+  <file src='145.dff' />
+  <file src='167.dff' />
+  <file src='18.dff' />
+  <file src='203.dff' />
+  <file src='204.dff' />
+  <file src='205.dff' />
+
+  <file src='137.txd' />
+  <file src='145.txd' />
+  <file src='167.txd' />
+  <file src='18.txd' />
+  <file src='203.txd' />
+  <file src='204.txd' />
+  <file src='205.txd' />
+  <script src="replace.lua" type="client" />
+</meta>

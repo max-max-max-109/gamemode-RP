@@ -1,0 +1,41 @@
+20130907175715> Logowanie rozpoczęte
+20130907175746> ### mix zalogował/a się.
+20130907180619> ### mix zalogował/a się.
+20130907182945> ### mix zalogował/a się.
+20130907191402> IC Brian Walker/1: Cos
+20130907192051> B Brian Walker/1: lagi -_-
+20130907192103> B Brian Walker/1: ale cie slysze
+20130907192113> B Gray Fullbuster/0: b
+20130907192139> B Brian Walker/1: -_-
+20130907192210> B Brian Walker/1: gj
+20130907192347> B Brian Walker/1: lagagagagagagi
+20130907192358> B Brian Walker/1: op net kurwa
+20130907192819> B Brian Walker/1: -_-
+20130907193141> Gray_Fullbuster /dajmi 7 2 0
+20130907193144> Gray_Fullbuster /dajmi 7 2 0
+20130907193149> Gray_Fullbuster /dajmi 2 7 0
+20130907193151> B Brian Walker/1: trolololololololo
+20130907193154> Gray_Fullbuster /dajmi 6 2 0
+20130907193201> Gray_Fullbuster /dajmi 6 2 0
+20130907193205> Gray_Fullbuster /dajmi 2 6 0
+20130907193224> Gray_Fullbuster /dajmi 6 2 2
+20130907193229> Gray_Fullbuster /dajmi 6 2 3
+20130907193234> ITEM_DROP Gray Fullbuster, ID: 6, SUBTYPE:2
+20130907193234> ITEM_DROP Gray Fullbuster, ID: 6, SUBTYPE:2
+20130907193235> ITEM_DROP Gray Fullbuster, ID: 6, SUBTYPE:3
+20130907193236> ITEM_DROP Gray Fullbuster, ID: 6, SUBTYPE:3
+20130907193244> ITEM_PICKUP Brian Walker, ID: 6, SUBTYPE:3
+20130907193251> ITEM_PICKUP Brian Walker, ID: 6, SUBTYPE:2
+20130907193259> Gray_Fullbuster /dajmi 6 2 2
+20130907193533> IC Brian Walker/1: /me zapina pasy
+20130907193647> ### Toretto209 zalogował/a się.
+20130907194914> ### Toretto209 zalogował/a się.
+20130907195019> IC Brian Walker/1: Skrec w prawo
+20130907195042> IC Brian Walker/1: Skrec w prawo
+20130907195101> IC Brian Walker/1: Skrec w prawo
+20130907195103> IC Brian Walker/1: Skrec w prawo
+20130907195104> IC Brian Walker/1: Skrec w prawo
+20130907195108> IC Brian Walker/1: Skrec w prawo
+20130907195110> IC Brian Walker/1: Skrec w prawo
+20130907200426> ### Toretto209 zalogował/a się.
+20130907200753> ### Toretto209 zalogował/a się.

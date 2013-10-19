@@ -1,0 +1,21 @@
+<meta>
+
+
+	<file src="MatTextures.txd" />
+	<file src="Red.dff" />
+	<file src="Red.col" />
+	<file src="Blue.dff" />
+	<file src="Blue.col" />
+	<file src="Green.dff" />
+	<file src="Green.col" />
+	<file src="Yellow.dff" />
+	<file src="Yellow.col" />
+	<file src="Pink.dff" />
+	<file src="Pink.col" />
+	<file src="White.dff" />
+	<file src="White.col" />
+
+
+  <script src="samp_models_rc3.lua" type="client" />
+</meta>
+

@@ -1,0 +1,301 @@
+20130911213324> Logowanie rozpoczęte
+20130911213425> ### mix zalogował/a się.
+20130911213436> B Gray Fullbuster/1: zjebałem -.-
+20130911213440> B Franklin Alosi/0: wtf?
+20130911213442> B Franklin Alosi/0: nic nie widze
+20130911213445> B Gray Fullbuster/1: lol?
+20130911213449> IC Franklin Alosi/0: Jeszcze raz dawaj
+20130911213454> IC Franklin Alosi/0: /do nic nie mowil
+20130911213506> B Franklin Alosi/0: o cos widze
+20130911213516> B Franklin Alosi/0: jestesmy w wodzie xd
+20130911213538> B Gray Fullbuster/1: no
+20130911213547> B Franklin Alosi/0: daj mi skin 120
+20130911213552> ZMIANA SKINA mix zmienil skin Franklin_Alosi na 120
+20130911213639> B Gray Fullbuster/1: bierz
+20130911213657> B Franklin Alosi/0: co ?
+20130911213703> B Gray Fullbuster/1: duty
+20130911213705> B Gray Fullbuster/1: xD
+20130911213717> B Gray Fullbuster/1: OK MASZ :d
+20130911213725> B Gray Fullbuster/1: zara ci podam kod do
+20130911213727> B Gray Fullbuster/1: sejfu
+20130911213735> B Franklin Alosi/0: ok
+20130911213802> B Gray Fullbuster/1: 9423
+20130911213826> B Gray Fullbuster/1: czekaj nie podnoś
+20130911213826> B Franklin Alosi/0: ok
+20130911213829> ITEM_DROP Gray Fullbuster, ID: 110, SUBTYPE:0
+20130911213830> B Franklin Alosi/0: czego ?
+20130911213833> ITEM_PICKUP Gray Fullbuster, ID: 110, SUBTYPE:0
+20130911213837> Gray_Fullbuster /dajmi 110 0 0
+20130911213838> ITEM_DROP Gray Fullbuster, ID: 110, SUBTYPE:0
+20130911213839> ITEM_DROP Gray Fullbuster, ID: 110, SUBTYPE:0
+20130911213846> ITEM_PICKUP Gray Fullbuster, ID: 110, SUBTYPE:0
+20130911213851> Gray_Fullbuster /dajmi 110 15 0
+20130911213901> WYMIANA Gray_Fullbuster daje Franklin_Alosi item 110 podtyp 2 ilosc 0
+20130911213910> B Franklin Alosi/0: amo nie ma ;p
+20130911213910> Gray_Fullbuster /dajmi 110 99999 0
+20130911213912> B Gray Fullbuster/1: kurwa
+20130911213918> B Gray Fullbuster/1: patrz na yto
+20130911213940> B Gray Fullbuster/1: dużo :D
+20130911213945> B Franklin Alosi/0: no ;p
+20130911213948> ITEM_DROP Gray Fullbuster, ID: 132, SUBTYPE:0
+20130911213950> B Franklin Alosi/0: daj amo
+20130911213954> Gray_Fullbuster /dajmi 132 99999 0
+20130911213954> ITEM_PICKUP Franklin Alosi, ID: 132, SUBTYPE:0
+20130911213956> B Franklin Alosi/0: ok
+20130911214003> WYMIANA Gray_Fullbuster daje Franklin_Alosi item 132 podtyp 500 ilosc 0
+20130911214007> B Franklin Alosi/0: thx
+20130911214011> B Gray Fullbuster/1: jeszcze paralizator kajdanki
+20130911214039> Gray_Fullbuster /dajmi 33 20 0
+20130911214050> WYMIANA Gray_Fullbuster daje Franklin_Alosi item 33 podtyp 20 ilosc 0
+20130911214102> B Franklin Alosi/0: sypni groszem ;p
+20130911214103> Gray_Fullbuster /dajmi 28 20 0
+20130911214116> WYMIANA Gray_Fullbuster daje Franklin_Alosi gotowke 1000$
+20130911214116> WYMIANA Gray_Fullbuster daje Franklin_Alosi item 28 podtyp 20 ilosc 0
+20130911214118> B Franklin Alosi/0: thx ;p
+20130911214126> Gray_Fullbuster /dajmi 111 20 0
+20130911214145> Gray_Fullbuster /dajmi 133 500 0
+20130911214149> WYMIANA Gray_Fullbuster daje Franklin_Alosi item 111 podtyp 20 ilosc 0
+20130911214207> WYMIANA Gray_Fullbuster daje Franklin_Alosi item 133 podtyp 500 ilosc 0
+20130911214214> B Gray Fullbuster/1: o
+20130911214219> B Franklin Alosi/0: lol
+20130911214219> B Gray Fullbuster/1: nie podmieniłem ups
+20130911214234> B Franklin Alosi/0: idze pojezdzic
+20130911214318> B Franklin Alosi/0: ej
+20130911214321> B Franklin Alosi/0: mam skin CJ ?
+20130911214323> B Franklin Alosi/0: czemu ?
+20130911214325> B Gray Fullbuster/1: b
+20130911214345> ZMIANA SKINA mix zmienil skin Franklin_Alosi na 120
+20130911214346> B Franklin Alosi/0: tgx
+20130911214347> B Franklin Alosi/0: thx
+20130911214348> KICK Franklin_Alosi, powod: 'RC', przez: mix
+20130911214456> B Gray Fullbuster/1: ok masz
+20130911214507> B Franklin Alosi/0: thx
+20130911214509> B Franklin Alosi/0: chodz ;p
+20130911214519> IC Gray Fullbuster/1: Ej
+20130911214523> B Gray Fullbuster/1: wyciągnij paralizator
+20130911214524> B Franklin Alosi/0: ta?
+20130911214534> B Gray Fullbuster/1: lol
+20130911214544> B Franklin Alosi/0: nie mam kluczy
+20130911214545> B Franklin Alosi/0: ;/
+20130911214552> B Gray Fullbuster/1: duty?
+20130911214555> B Franklin Alosi/0: a
+20130911214555> B Gray Fullbuster/1: :)
+20130911214640> IC Gray Fullbuster/1: Musze jeszcze mape zedytowac
+20130911214642> B Gray Fullbuster/1: kurna
+20130911214728> B Franklin Alosi/0: jak wlaczyc syreny
+20130912133923> ### mix zalogował/a się.
+20130912134129> PM Martin_Verez/1 >> Gray_Fullbuster/0: Będe robił BH i tak nikt nie mgra :D
+20130912134133> PM Martin_Verez/1 >> Gray_Fullbuster/0: Tepnij
+20130912134201> B Gray Fullbuster/0: wsiadasz?
+20130912134220> B Gray Fullbuster/0: inna konfa
+20130912134223> B Martin Verez/1: ok
+20130912134226> B Gray Fullbuster/0: dodaj sie
+20130912134611> WYMIANA Gray_Fullbuster daje Martin_Verez item 6 podtyp 1 ilosc 951
+20130912134819> ITEM_DROP Gray Fullbuster, ID: 115, SUBTYPE:0
+20130912134827> Gray_Fullbuster /dajmi 115 0 0
+20130912134828> ITEM_PICKUP Martin Verez, ID: 115, SUBTYPE:0
+20130912134842> WYMIANA Gray_Fullbuster daje Martin_Verez item 130 podtyp 1000 ilosc 0
+20130912134846> SMIERC Lee_Sin
+20130912135024> B Gray Fullbuster/0: i
+20130912135125> SMIERC Lee_Sin
+20130912135809> ### Miodzik zalogował/a się.
+20130912135832> ITEM_DROP Gray Fullbuster, ID: 130, SUBTYPE:0
+20130912135832> Martin_Verez /dajmi 115 20 0
+20130912135841> B Gray Fullbuster/0: dajmi 130 1000
+20130912135846> ITEM_PICKUP Gray Fullbuster, ID: 130, SUBTYPE:0
+20130912135847> Martin_Verez /dajmi 130 30000 0
+20130912135908> B Gray Fullbuster/0: 9423
+20130912140044> B Gray Fullbuster/0: 136
+20130912140049> Martin_Verez /dajmi 114 7 0
+20130912140104> Martin_Verez /dajmi 136 3000 0
+20130912140236> Martin_Verez /dajmi 114 7 0
+20130912140247> Martin_Verez /dajmi 136 3500 0
+20130912140605> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron M4
+20130912141206> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Fist
+20130912141250> Martin_Verez /dajmi 136 1 0
+20130912141300> Martin_Verez /dajmi 136 -2147483648 0
+20130912141330> Martin_Verez /dajmi 136 100000 0
+20130912141342> Martin_Verez /dajmi 136 1 0
+20130912141347> B Gray Fullbuster/0: dajm i 136 2147483649
+20130912141406> Martin_Verez /dajmi -2147483648 0 0
+20130912141422> Martin_Verez /dajmi 136 1000000 0
+20130912141430> Martin_Verez /dajmi 136 10000000 0
+20130912141440> Martin_Verez /dajmi 136 1000000 0
+20130912141448> Martin_Verez /dajmi 136 10000000 0
+20130912141455> KICK Martin_Verez, powod: 'rc', przez: mix
+20130912141705> ### Miodzik zalogował/a się.
+20130912141705> ### mix zalogował/a się.
+20130912141714> Martin_Verez /dajmi 136 3000 0
+20130912141719> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912142227> B Gray Fullbuster/1: tss
+20130912142237> ### Miodzik zalogował/a się.
+20130912142244> B Gray Fullbuster/1: tss
+20130912142305> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912142420> IC Gray Fullbuster/1: NIE!...
+20130912142427> IC Gray Fullbuster/1: NIE!...
+20130912142428> IC Gray Fullbuster/1: NIE!...
+20130912142428> IC Gray Fullbuster/1: NIE!...
+20130912142428> IC Gray Fullbuster/1: NIE!...
+20130912142428> IC Gray Fullbuster/1: NIE!...
+20130912142429> IC Gray Fullbuster/1: NIE!...
+20130912142429> IC Gray Fullbuster/1: NIE!...
+20130912142429> IC Gray Fullbuster/1: NIE!...
+20130912142429> IC Gray Fullbuster/1: NIE!...
+20130912142429> IC Gray Fullbuster/1: NIE!...
+20130912142430> IC Gray Fullbuster/1: NIE!...
+20130912142436> IC Martin Verez/: /k TAK
+20130912142438> IC Martin Verez/: /k TAK
+20130912142439> IC Martin Verez/: /k TAK
+20130912142439> IC Martin Verez/: /k TAK
+20130912142440> IC Martin Verez/: /k TAK
+20130912142440> IC Martin Verez/: /k TAK
+20130912142440> IC Martin Verez/: /k TAK
+20130912142440> IC Martin Verez/: /k TAK
+20130912142442> IC Martin Verez/: /k TAK
+20130912142443> IC Martin Verez/: /k TAK
+20130912142444> IC Martin Verez/: /k TAK
+20130912142444> IC Martin Verez/: /k TAK
+20130912142444> IC Martin Verez/: /k TAK
+20130912142444> IC Martin Verez/: /k TAK
+20130912142444> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142445> IC Martin Verez/: /k TAK
+20130912142446> IC Martin Verez/: /k TAK
+20130912142446> IC Martin Verez/: /k TAK
+20130912142446> IC Martin Verez/: /k TAK
+20130912142446> IC Martin Verez/: /k TAK
+20130912142446> IC Martin Verez/: /k TAK
+20130912142446> IC Martin Verez/: /k TAK
+20130912142447> IC Martin Verez/: /k TAK
+20130912142447> IC Martin Verez/: /k TAK
+20130912142447> IC Martin Verez/: /k TAK
+20130912142447> IC Martin Verez/: /k TAK
+20130912142447> IC Martin Verez/: /k TAK
+20130912142447> IC Martin Verez/: /k TAK
+20130912142448> IC Martin Verez/: /k TAK
+20130912142448> IC Martin Verez/: /k TAK
+20130912142448> IC Martin Verez/: /k TAK
+20130912142448> IC Martin Verez/: /k TAK
+20130912142448> IC Martin Verez/: /k TAK
+20130912142448> IC Martin Verez/: /k TAK
+20130912142451> IC Martin Verez/: /k TAK
+20130912142458> ZABOJSTWO Martin_Verez zabity przez Gray_Fullbuster, bron M4
+20130912142558> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912142604> IC Martin Verez/0: Hela 1
+20130912142714> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912142755> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912142827> Martin_Verez /dajmi 115 1 0
+20130912142834> Martin_Verez /dajmi 130 20 0
+20130912142851> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron M4
+20130912142903> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron M4
+20130912143013> ZABOJSTWO Martin_Verez zabity przez Gray_Fullbuster, bron Deagle
+20130912143041> IC Martin Verez/: /k chuj]
+20130912143046> ZABOJSTWO Martin_Verez zabity przez Gray_Fullbuster, bron M4
+20130912143050> Martin_Verez /dajmi 139 1 0
+20130912143117> B Gray Fullbuster/1: 109
+20130912143118> Martin_Verez /dajmi 109 1 0
+20130912143122> B Gray Fullbuster/1: 131
+20130912143123> Martin_Verez /dajmi 131 9 0
+20130912143127> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912143155> WYMIANA Gray_Fullbuster daje Martin_Verez item 110 podtyp 1 ilosc 0
+20130912143202> WYMIANA Gray_Fullbuster daje Martin_Verez item 132 podtyp 1000 ilosc 0
+20130912143207> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Deagle
+20130912143234> ZABOJSTWO Martin_Verez zabity przez Gray_Fullbuster, bron M4
+20130912143244> Gray_Fullbuster /dajmi 109 0 0
+20130912143250> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912143257> ITEM_DROP Gray Fullbuster, ID: 11, SUBTYPE:0
+20130912143304> Gray_Fullbuster /dajmi 131 999 0
+20130912143311> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912143317> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912143321> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912143325> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912143336> ZABOJSTWO Martin_Verez zabity przez Gray_Fullbuster, bron Shotgun
+20130912143354> ZABOJSTWO Martin_Verez zabity przez Gray_Fullbuster, bron Shotgun
+20130912143449> ### mix zalogował/a się.
+20130912143738> ### mix zalogował/a się.
+20130912143747> ITEM_DROP Martin Verez, ID: 131, SUBTYPE:0
+20130912143803> Martin_Verez /dajmi 131 1000 0
+20130912143810> ITEM_PICKUP Martin Verez, ID: 131, SUBTYPE:0
+20130912143836> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912143917> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912143930> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Deagle
+20130912143951> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912144219> IC Gray Fullbuster/1: /me wyciąga spod koszuli broń poczym ją odbezpiecza i zaczyna strzelać
+20130912144406> IC Gray Fullbuster/1: T/inv
+20130912144650> BANK wplata Martin_Verez/8 kwota 1000000$
+20130912144740> BANK-FRAKCJA wplata Martin_Verez/8 kwota 50000$ NA KONTO 2 TYTULEM Od Urzędu Miasta
+20130912144924> BANK-FRAKCJA wplata Martin_Verez/8 kwota 50000$ NA KONTO 6 TYTULEM Od Urzędu Miasta.
+20130912145046> BANK-FRAKCJA wplata Martin_Verez/8 kwota 50000$ NA KONTO 22 TYTULEM Od Urzędu Miasta.
+20130912145245> BANK-FRAKCJA wplata Martin_Verez/8 kwota 50000$ NA KONTO 11 TYTULEM Od Urzędu Miasta.
+20130912145319> B Gray Fullbuster/1: veh.fix
+20130912145411> WYMIANA Gray_Fullbuster daje Lee_Sin item 6 podtyp 1 ilosc 1
+20130912145526> BANK-FRAKCJA wplata Martin_Verez/8 kwota 50000$ NA KONTO 5 TYTULEM Od Urządu Miasta.
+20130912145703> SMIERC Gray_Fullbuster
+20130912145724> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912145743> IC Martin Verez/0: .unbw 1
+20130912145917> BANK-FRAKCJA wplata Martin_Verez/8 kwota 50000$ NA KONTO 17 TYTULEM Od Urzędu Miasta.
+20130912150341> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912150409> ZABOJSTWO Lee_Sin zabity przez Martin_Verez, bron Shotgun
+20130912150428> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron Deagle
+20130912150436> IC Martin Verez/0: /me przeszukuje gnoja.
+20130912150450> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912150523> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron Fist
+20130912150537> ZABOJSTWO Lee_Sin zabity przez Martin_Verez, bron Shotgun
+20130912150545> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron Shotgun
+20130912150556> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron Shotgun
+20130912150602> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron Shotgun
+20130912150627> WYMIANA Martin_Verez daje Lee_Sin item 131 podtyp 986 ilosc 0
+20130912150627> WYMIANA Martin_Verez daje Lee_Sin item 109 podtyp 1 ilosc 0
+20130912150631> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron Shotgun
+20130912150631> ZABOJSTWO Gray_Fullbuster zabity przez Martin_Verez, bron MP5
+20130912150638> ZABOJSTWO Gray_Fullbuster zabity przez Lee_Sin, bron Shotgun
+20130912150642> ZABOJSTWO Gray_Fullbuster zabity przez Lee_Sin, bron Shotgun
+20130912150643> ZABOJSTWO Gray_Fullbuster zabity przez Lee_Sin, bron Shotgun
+20130912150652> ZABOJSTWO Gray_Fullbuster zabity przez Lee_Sin, bron Shotgun
+20130912150656> ZABOJSTWO Lee_Sin zabity przez Martin_Verez, bron MP5
+20130912150723> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron Shotgun
+20130912150755> ZABOJSTWO Gray_Fullbuster zabity przez Lee_Sin, bron Fist
+20130912150818> ZABOJSTWO Gray_Fullbuster zabity przez Lee_Sin, bron Shotgun
+20130912150825> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron M4
+20130912150841> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron M4
+20130912150901> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron M4
+20130912150911> SMIERC Lee_Sin
+20130912150925> SMIERC Gray_Fullbuster
+20130912152031> B Jacob Redson/0: Aha :D
+20130912152054> B Jacob Redson/0: Dajcie suppa to sięsam tepać będe potem jak coś mi go wezmiecie
+20130912152221> BANK wplata Jacob_Redson/9 kwota 400$
+20130912153326> ZABOJSTWO Lee_Sin zabity przez Gray_Fullbuster, bron M4
+20130912153406> Gray_Fullbuster /dajmi 6 1 951
+20130912153411> WYMIANA Gray_Fullbuster daje Lee_Sin item 6 podtyp 1 ilosc 951
+20130912153823> ### mix zalogował/a się.
+20130912155624> Gray_Fullbuster /dajmi 162 0 0
+20130912155632> ITEM_DROP Gray Fullbuster, ID: 162, SUBTYPE:0
+20130912155636> Gray_Fullbuster /dajmi 162 1 10
+20130912155642> ITEM_DROP Gray Fullbuster, ID: 162, SUBTYPE:10
+20130912155655> Gray_Fullbuster /dajmi 162 1 100
+20130912155717> ITEM_DROP Gray Fullbuster, ID: 162, SUBTYPE:100
+20130912155721> Gray_Fullbuster /dajmi 162 1 1
+20130912160349> ITEM_PICKUP Lee Sin, ID: 162, SUBTYPE:10
+20130912160501> ITEM_PICKUP Lee Sin, ID: 162, SUBTYPE:0
+20130912160927> PM Jacob_Redson/1 >> Gray_Fullbuster/0: Gdzje tjen slujtan bjo wezmje sje bjo nja chwije xd
+20130912161216> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Shotgun
+20130912161231> B Jacob Redson/1: HP xD
+20130912161253> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron M4
+20130912161257> B Jacob Redson/1: Fuck xd
+20130912161302> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron M4
+20130912161323> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Shotgun
+20130912161400> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Deagle
+20130912161410> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron M4
+20130912161525> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Shotgun
+20130912161531> B Jacob Redson/1: FUUUUCK xd
+20130912161537> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Shotgun
+20130912161604> B Jacob Redson/1: HP
+20130912161658> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron Deagle
+20130912161710> ZABOJSTWO Jacob_Redson zabity przez Gray_Fullbuster, bron M4
+20130912161730> B Jacob Redson/1: Daj mi kluczyk do sultka uciekne od ciebie :D
+20130912162547> ### mix zalogował/a się.

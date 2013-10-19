@@ -1,0 +1,6 @@
+<meta>	
+	<file src="armour.txd" />
+	<file src="armour.dff" />
+	<file src="bodyarmour.dff" />
+  <script src="replace.lua" type="client" />
+</meta>
